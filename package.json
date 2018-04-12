@@ -1,0 +1,16 @@
+{
+  "name": "dokkupi",
+  "version": "1.0.0",
+  "description": "Github hook to deploy containers on raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kévin Hassan <kevin.hassan@etu.umontpellier.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  }
+}
